@@ -1,5 +1,5 @@
 # Project Overview
-This project focuses on building a linear regression model to predict precipitation in the city of London using the london_weather.csv dataset.
+This project was completed as part of the COMP3400 (Data Preparation Techniques) course. It focuses on building a linear regression model to predict precipitation in the city of London using the london_weather.csv dataset.
 
 # Tech Stack
 - Numpy
